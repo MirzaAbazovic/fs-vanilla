@@ -16,8 +16,8 @@ docker run --network host docker.ib-ci.com/fs-vanilla
 
 See status:
 * telnet localhost 8021
-* auth ClueCon (twice enter)
-* api stastus (twice enter)
+* auth ClueCon (hit enter twice)
+* api status (hit enter twice)
 
 ```
 ❯ telnet localhost 8021
