@@ -10,7 +10,7 @@ docker build -t fs-vanilla github.com/MirzaAbazovic/fs-vanilla
 Run it:
 
 ```
-docker run --network host docker.ib-ci.com/fs-vanilla
+docker run --network host fs-vanilla
 ```
 
 See status:
